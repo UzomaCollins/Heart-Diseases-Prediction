@@ -1,0 +1,2 @@
+# Heart-Diseases-Prediction
+This project assumes you have been asked by a hospital to use machine learning to predict heart disease. Your job is to develop a model and highlight two to three important features that doctors and nurses can focus on to improve patient health. You decide to use a decision tree classifier with fine-tuned hyperparameters. After the model has been built, you will interpret results using feature_importances_, an attribute that determines the most important features in predicting heart disease.
